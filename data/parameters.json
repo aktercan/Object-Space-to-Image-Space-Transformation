@@ -1,0 +1,18 @@
+{
+    "interior_orientation": {
+        "focal_length": 120,                // Focal length (mm)
+        "pixel_size": 0.012,                // Pixel size (mm)
+        "principal_point_x": 3840,          // Principal point x (pixels)
+        "principal_point_y": 6912           // Principal point y (pixels)
+    },
+    "exterior_orientation": {
+        "x0": 497049.238,                   // Camera's x position in world coordinates
+        "y0": 5420301.525,                  // Camera's y position in world coordinates
+        "z0": 1163.806                      // Camera's z position in world coordinates
+    },
+    "rotation_angles": {
+        "omega_gon": 2.05968,               // Omega angle in gons
+        "phi_gon": 0.67409,                 // Phi angle in gons
+        "kappa_gon": 199.23470              // Kappa angle in gons
+    }
+}
