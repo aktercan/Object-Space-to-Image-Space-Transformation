@@ -32,7 +32,6 @@ This project requires Python and the `math` library (included in Python by defau
 
 To get a copy of this project on your local machine, use the following command:
 
-```bash
 git clone https://github.com/aktercan/Object-Space-to-Image-Space-Transformation.git
 cd Object-Space-to-Image-Space-Transformation
 
